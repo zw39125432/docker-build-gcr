@@ -1,3 +1,3 @@
-FROM gcr.io/kubeflow-images-public/notebook-controller:v1.0.0-gcd65ce25
+FROM gcr.io/kaniko-project/executor:latest
 MAINTAINER zw39125432@hotmail.comc
 
