@@ -1,3 +1,3 @@
-FROM gcr.io/kubeflow-images-public/notebook-controller:v1.0.0-gcd65ce25
+FROM gcr.azk8s.cn/google-containers/metrics-server-amd64:v0.3.3
 MAINTAINER zw39125432@hotmail.comc
 
